@@ -6,7 +6,9 @@
 • Strong fundamentals understanding the principles of object-oriented programming (OOP).<br/>
 • Currently my main focus is on C# .NET Core, Xamarin, Unit testing and MS SQL.<br/>
 
-#Languages and Tools:<br/>
+**Languages and Tools:**
+<br/>
+<br/>
 <img align="left" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" width="50px" src="https://camo.githubusercontent.com/3247526b7b28c4038828f801763b617fa2dfb567d0178400e4ca9dffec6e98b7/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f652f65652f2e4e45545f436f72655f4c6f676f2e7376672f37363870782d2e4e45545f436f72655f4c6f676f2e7376672e706e67" />
