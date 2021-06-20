@@ -1,5 +1,5 @@
 **Hi there, I'm Edin Bumbul 👋**<br/>
-**I'm 22 and I'm currently at my Final year of bachelor's studies at Faculty of Information Technologies, University "Džemal Bijedić" in Mostar.**<br/>
+**I'm 22 and I'm currently in my Final year of bachelor's studies at Faculty of Information Technologies, University "Džemal Bijedić" in Mostar.**<br/>
 
 • Skilled in web based solutions using technologies such as ASP.NET MVC, ASP.NET Core, HTML5, CSS3, and JavaScript.<br/>
 • Skilled in backend and frontend development.<br/>
