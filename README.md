@@ -4,7 +4,7 @@
 • Skilled in web based solutions using technologies such as ASP.NET MVC, ASP.NET Core, HTML5, CSS3, and JavaScript.<br/>
 • Skilled in backend and frontend development.<br/>
 • Strong fundamentals understanding the principles of object-oriented programming (OOP).<br/>
-• Currently my main focus is on C# .NET Core, Xamarin, Unit testing and MS SQL.<br/>
+• Currently my main focus is on C# .NET Core, Angular, Xamarin, Unit testing and MS SQL.<br/>
 
 **Languages and Tools:**
 <br/>
