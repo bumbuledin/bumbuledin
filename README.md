@@ -1,10 +1,10 @@
 **Hi there, I'm Edin Bumbul 👋**<br/>
 **I'm 22 and I'm currently in my Final year of bachelor's studies at Faculty of Information Technologies, University "Džemal Bijedić" in Mostar.**<br/>
 
-• Skilled in web based solutions using technologies such as ASP.NET MVC, ASP.NET Core, HTML5, CSS3, and JavaScript.<br/>
+• Skilled in web based solutions using technologies such as React, Vue.js 3 and ASP.NET Core MVC<br/>
 • Skilled in backend and frontend development.<br/>
 • Strong fundamentals understanding the principles of object-oriented programming (OOP).<br/>
-• Currently my main focus is on C# .NET Core, Angular, Xamarin, Unit testing and MS SQL.<br/>
+• Currently my main focus is on C# .NET Core, React, Vue, Flutter, Unit testing and MS SQL.<br/>
 
 **Languages and Tools:**
 <br/>
